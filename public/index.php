@@ -4,7 +4,7 @@
 //die($_SERVER['REQUEST_URI']);
 
 //probando el define
-define('LARAVEL_START', microtime(true));
+//define('LARAVEL_START', microtime(true));
 
 /**
  * Laravel - A PHP Framework For Web Artisans
