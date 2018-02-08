@@ -1,5 +1,5 @@
 <?php
-
+//Probes individuals (clases o metodes) sense http
 namespace Tests\Unit;
 
 use Tests\TestCase;

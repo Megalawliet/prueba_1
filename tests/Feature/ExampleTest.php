@@ -1,5 +1,5 @@
 <?php
-
+/* Probes que proben peticions http */
 namespace Tests\Feature;
 
 use Tests\TestCase;
